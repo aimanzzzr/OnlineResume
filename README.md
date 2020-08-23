@@ -11,3 +11,5 @@ for his simple but awesome resume style. His [Youtube Channel](https://www.youtu
 ##  TO BE ADDED (TO DO LIST)
 ---
 -   Change my profile picture sob sob.
+
+Link to [My Online Resume](https://aimanzzzr.netlify.app)
